@@ -2,6 +2,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+## Feedback
+
+If you have any feedback, please reach out to us at umarashraf7827@gmail.com
+
+# Project Md File ⬇️ 
+
 In the project directory, you can run:
 
 ### `yarn start`
